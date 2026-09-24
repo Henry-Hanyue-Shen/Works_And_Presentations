@@ -1,0 +1,82 @@
+# Author-Maintained Corrections
+
+## The Critical Maneuverability Theorem: A First-Principles Design Framework for Agile Supercavitating Vehicles
+
+**Published in:** OCEANS 2026 Sanya  
+**IEEE Xplore article:** 11617166  
+**DOI:** 10.1109/OCEANS66983.2026.11617166
+
+This document records bibliographic corrections and clarifications identified by
+the author after publication.
+
+These corrections do not modify the principal theorem, derivation structure,
+numerical results, or conclusions of the published paper unless explicitly
+stated below.
+
+The IEEE Xplore publication remains the version of record.
+
+---
+
+## Reference corrections
+
+### Reference [5]
+
+**Published reference**
+
+> J. Dzielski and A. Kurdila, “Benchmark control problems for
+> supercavitating vehicles and their solution,” *Journal of Guidance,
+> Control, and Dynamics*, vol. 26, no. 1, pp. 30–38, 2003.
+
+**Correct reference**
+
+> J. Dzielski and A. Kurdila, “A Benchmark Control Problem for
+> Supercavitating Vehicles and an Initial Investigation of Solutions,”
+> *Journal of Vibration and Control*, vol. 9, no. 7, pp. 791–804, 2003.  
+> DOI: 10.1177/1077546303009007004
+
+**Nature of correction**
+
+Bibliographic correction. The intended Dzielski–Kurdila work was identifiable,
+but its title, journal, volume, issue, and page range were incorrectly given in
+the published reference list.
+
+**Effect on the paper**
+
+None. The correction concerns attribution to prior supercavitating-vehicle
+control literature and does not alter any derivation or numerical result.
+
+---
+
+### Reference [7]
+
+**Published reference**
+
+> K. Kornev and N. Mazur, “Wagner problem for the profiles with spray
+> root,” *Physics of Fluids*, vol. 33, p. 062111, 2021.
+
+The bibliographic coordinates printed above do not correspond to the intended
+theoretical source.
+
+The relevant theoretical basis for the cylindrical free-surface impact
+construction is:
+
+> A. D. Vasin and E. V. Paryshev, “Immersion of a Cylinder in a Fluid
+> Through a Cylindrical Free Surface,” *Fluid Dynamics*, vol. 36,
+> no. 2, pp. 169–177, 2001.  
+> DOI: 10.1023/A:1019299930896
+
+A related reference for higher-order Wagner impact and jet-root treatment is:
+
+> A. A. Korobkin, “Second-order Wagner theory of wave impact,”
+> *Journal of Engineering Mathematics*, vol. 58, pp. 121–139, 2007.  
+> DOI: 10.1007/s10665-006-9105-7
+
+**Clarification**
+
+The cited literature supplies the theoretical framework of Wagner-type impact
+analysis, conformal treatment of curved/cylindrical free surfaces, and
+jet-root corrections.
+
+The particular first-order curvature approximation used in Eq. (8) of the
+paper is part of the CMT modeling reduction; it should not be interpreted as
+a verbatim equation quoted from the incorrectly listed
